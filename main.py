@@ -1,5 +1,6 @@
 print('hai')
 print('lalalla')
 print('toni')
+print('ani')
+print('anton')
 print('budi')
-print('toni')
